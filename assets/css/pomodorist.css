@@ -1,0 +1,124 @@
+body {
+    margin: 20px;
+    padding: 0;
+    text-align: center;
+    /*background-color:#d44848;   */
+    background-image: url("/assets/images/fog-dark-clouds-mountains.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    color: white;
+    
+    
+}
+
+main h1 {
+    margin: 0;
+    padding: 0;
+}
+
+#pomodoro {
+    background-color: white;
+    font-size: 25px;
+    border: 2px solid rgb(13, 121, 123);
+    cursor: pointer;
+    border-radius: 12px;
+    tab-size: 90px;    
+    color: rgb(13, 121, 123);
+    width: 160px;
+    transition: 1s all ;
+    
+}
+
+#short {
+    background-color: transparent;
+    font-size: 25px;
+    border: 2px solid rgb(13, 121, 123);
+
+    cursor: pointer;
+    border-radius: 12px;
+    color: white;
+    width: 160px;
+    transition: 1s all ;
+}
+
+#long {
+    background-color: transparent;
+    font-size: 25px;
+    border: 2px solid rgb(13, 121, 123);
+
+    cursor: pointer;
+    border-radius: 12px;
+    color: white;
+    width: 160px;
+    transition: 1s all ;
+}
+
+
+#start {
+    background-color: transparent;
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 12px;
+    border: 2px solid rgb(13, 121, 123);
+    tab-size: 90px;   
+    width: 80px;
+    
+}
+
+#reset {
+    background-color: transparent;
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 12px;
+    border: 2px solid rgb(13, 121, 123);
+    width: 80px;
+}
+
+#stop {
+    background-color: transparent;
+    font-size: 25px;
+   border: 2px solid rgb(13, 121, 123);
+
+    cursor: pointer;
+    border-radius: 12px;
+    width: 80px;
+}
+
+#time {
+   border: 5px solid rgb(13, 121, 123);
+   background-color: rgb(0, 121, 121);
+   width: 25%;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 10px;
+    font-size: 75px;
+    margin: 15px;
+}
+
+main {
+   
+    padding: 20px;
+}
+
+#image{
+    
+    height: 350px;
+    height: 350px;
+
+}
+
+
+footer{
+  border-top: 1px solid gray;
+  color: gray;
+  position: fixed;
+  height: 32px;
+  left: 400px;
+  right: 400px;
+  bottom: 0px;
+  font-size: 14px;
+    
+}
+
+
