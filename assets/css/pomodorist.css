@@ -1,16 +1,3 @@
-body {
-    margin: 20px;
-    padding: 0;
-    text-align: center;
-    /*background-color:#d44848;   */
-    background-image: url("/images/fog-dark-clouds-mountains.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    
-    color: white;
-    
-    
-}
 
 main h1 {
     margin: 0;
